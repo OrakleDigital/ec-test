@@ -1,0 +1,2 @@
+# Netlify / Cloudflare Pages — any path that doesn't match a real file returns 404.html with a real 404 status.
+/*  /404.html  404
